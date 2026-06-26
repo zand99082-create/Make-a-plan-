@@ -1,4 +1,4 @@
-package com.dkdevpro.androidappstarter  // این رو به پکیج خودت تغییر بده
+package dev.dineshktech.app.starter
 
 import android.app.Activity
 import android.content.ClipData
